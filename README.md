@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yunkee-lee-mcp-kakao-local-badge.png)](https://mseep.ai/app/yunkee-lee-mcp-kakao-local)
+
 # MCP Kakao Local
 
 The MCP connects to the [Kakao Local API](https://developers.kakao.com/docs/latest/ko/local/common) and Kakao Map.
